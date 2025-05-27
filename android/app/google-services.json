@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "132035547677",
+    "project_id": "scanplakdatabase-4d7b4",
+    "storage_bucket": "scanplakdatabase-4d7b4.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:132035547677:android:15eaf998591c97cc09acf4",
+        "android_client_info": {
+          "package_name": "com.example.scan_plak"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBu0z-tGy6pX0NrbFJrDYM9NEeKcX18Fo8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:132035547677:android:251622342c48e37109acf4",
+        "android_client_info": {
+          "package_name": "com.example.skan_plak"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBu0z-tGy6pX0NrbFJrDYM9NEeKcX18Fo8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
