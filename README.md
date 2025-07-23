@@ -42,7 +42,7 @@ Geçersiz plaka durumunda ise:
 
 | Giriş Ekranı | Plaka Tanındı | Geçersiz Plaka |
 |-------------|----------------|----------------|
-| ![Giriş](https://github.com/alim1202003/ANPRwithMobile/blob/main/assets/giris_resmi.jpg) | ![Açık]([servo_acik_yesil_led_lcd.png](https://github.com/alim1202003/ANPRwithMobile/blob/main/assets/servo_acik_yesil_led_lcd.png)) | ![Kapalı]([servo_kapali_kirmizi_led_lcd.png](https://github.com/alim1202003/ANPRwithMobile/blob/main/assets/servo_kapali_kirmizi_led_lcd.png)) |
+| ![Giriş](https://github.com/alim1202003/ANPRwithMobile/blob/main/assets/giris_resmi.jpg) | ![Açık](https://github.com/alim1202003/ANPRwithMobile/blob/main/assets/servo_acik_yesil_led_lcd.png) | ![Kapalı](https://github.com/alim1202003/ANPRwithMobile/blob/main/assets/servo_kapali_kirmizi_led_lcd.png) |
 
 ## ⚙️ Sistem Çalışma Prensibi
 
